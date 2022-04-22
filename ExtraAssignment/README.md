@@ -101,4 +101,7 @@ count_not_returned
 183
 ```
 
-
+If we sum all these query result, we gets 16044. That is equal to result of query 
+```sql
+SELECT COUNT(*) FROM rental;
+```
