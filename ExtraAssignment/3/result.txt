@@ -1,0 +1,1 @@
+It will find (unordered) top-10 customers (with id, first name, last name and total sum) by total sum spent in DVD rental company.

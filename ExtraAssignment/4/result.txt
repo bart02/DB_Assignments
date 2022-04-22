@@ -1,0 +1,8 @@
+count_returned_late
+8123
+
+count_returned_on_time
+7738
+
+count_not_returned
+183
